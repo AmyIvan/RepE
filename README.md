@@ -1,4 +1,21 @@
 # RepE
+
+## For the 2024 students of the School of Computer Science and Technology of Soochow University to learn debugging
+
+The main debugging file is: examples/honesty/honesty.ipynb.
+
+The following is the model I debugged. Download it locally and change the loading path in the main file to your own local path. 
+        File shared through Baidu Netdisk: Mistral-7B-Instruct-v0.1.rar
+        Link: https://pan.baidu.com/s/19QnoygjGcDLJIdV9Et-AEg
+        Extraction code: agdr
+
+I have put the operating environment in the requirement.txt file. Please check the versions of each package yourself; please note that the repe package can be edited and installed.
+
+ymai@stu.suda.edu.cn
+
+#------------------------------------------------------------------------------------
+
+# RepE
 ## 供苏州大学计算机科学与技术学院李正华老师2024级的同学们学习和调试
 
 
