@@ -1,6 +1,6 @@
 # RepE
 
-## For students who are in the 2024 writing class of the School of Computer Science and Technology of Soochow University, Professor Li Zhenghua, to learn and debug
+## For students who are in the 2024 writing class of the School of Computer Science and Technology of Soochow University, Professor Li Zhenghua.
 
 The main debugging file is: examples/honesty/honesty.ipynb.
 
