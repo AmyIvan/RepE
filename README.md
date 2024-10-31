@@ -9,4 +9,6 @@
     链接：https://pan.baidu.com/s/19QnoygjGcDLJIdV9Et-AEg 
     提取码：agdr 
 
+运行环境我已经放在requirement.txt文件中，自行对照各个包的版本；其中请注意repe包的可编辑安装。
 
+ymai@stu.suda.edu.cn
