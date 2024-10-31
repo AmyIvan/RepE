@@ -11,6 +11,8 @@ The following is the model I debugged. Download it locally and change the loadin
 
 I have put the operating environment in the requirement.txt file. Please check the versions of each package yourself; please note that the repe package can be edited and installed.
 
+This model can be run on a GeForce RTX 3090.
+
 ymai@stu.suda.edu.cn
 
 # 
@@ -27,5 +29,7 @@ ymai@stu.suda.edu.cn
     提取码：agdr 
 
 运行环境我已经放在requirement.txt文件中，自行对照各个包的版本；其中请注意repe包的可编辑安装。
+
+这个模型可以使用一张GeForce RTX 3090运行。
 
 ymai@stu.suda.edu.cn
