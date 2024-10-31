@@ -1,6 +1,6 @@
 # RepE
 
-## For the 2024 students of the School of Computer Science and Technology of Soochow University to learn debugging
+## For students who are in the 2024 writing class of the School of Computer Science and Technology of Soochow University, Professor Li Zhenghua, to learn and debug
 
 The main debugging file is: examples/honesty/honesty.ipynb.
 
@@ -16,7 +16,7 @@ ymai@stu.suda.edu.cn
 # 
 
 # RepE
-## 供苏州大学计算机科学与技术学院李正华老师2024级的同学们学习和调试
+## 供苏州大学计算机科学与技术学院李正华老师2024级专业写作的同学们学习和调试
 
 
 调试主文件为：examples/honesty/honesty.ipynb。
