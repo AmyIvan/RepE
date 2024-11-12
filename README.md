@@ -13,6 +13,14 @@ I have put the operating environment in the requirement.txt file. Please check t
 
 This model can be run on a GeForce RTX 3090.
 
+# Installation
+To install repe from the github repository main branch, run:
+
+```bash
+cd representation-engineering
+pip install -e .
+```
+
 ymai@stu.suda.edu.cn
 
 # 
@@ -31,5 +39,13 @@ ymai@stu.suda.edu.cn
 运行环境我已经放在requirement.txt文件中，自行对照各个包的版本；其中请注意repe包的可编辑安装。
 
 这个模型可以使用一张GeForce RTX 3090运行。
+
+# 安装
+要从 github 存储库主分支安装 repe，请运行：
+
+```bash
+cd representation-engineering
+pip install -e .
+```
 
 ymai@stu.suda.edu.cn
